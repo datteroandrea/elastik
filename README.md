@@ -1,9 +1,13 @@
 # Agile
 
-Agile is a Backend framework made in Node to design easy scalable web applications
+Agile is a Backend framework made in Node to design easy scalable web applications.
 
 # Setup
 
+1. install node and npm.
+2. use the following npm command to install agile framework globally in your system.
+
+`npm install -g agile`
 
 # How it works?
 
@@ -25,11 +29,11 @@ Agile creates configuration files and protects your api keys and other web app p
 
 ## Components
 
-** Api **
+**Api**
 
 
-** Service **
+**Service**
 
 
-** Module **
+**Module**
 
