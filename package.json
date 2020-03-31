@@ -1,0 +1,19 @@
+{
+  "name": "agile",
+  "version": "1.0.0",
+  "description": "Backend framework in Node",
+  "main": "agile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/datteroandrea/agile.git"
+  },
+  "author": "datteroandrea",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/datteroandrea/agile/issues"
+  },
+  "homepage": "https://github.com/datteroandrea/agile#readme"
+}
