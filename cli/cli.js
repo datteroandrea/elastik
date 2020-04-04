@@ -96,7 +96,7 @@ function newapp(appname){
     fs.mkdirSync(appname+"/api");
     fs.mkdirSync(appname+"/modules");
     fs.mkdirSync(appname+"/db");
-    fs.writeFileSync(appname+"/README.md","# "+appname +"\n\n ## Security\n\n Checkout synk, nsp and retire.js these node modules help you"+
+    fs.writeFileSync(appname+"/README.md","# "+appname +"\n\n ## Security\n\nCheckout synk, nsp and retire.js these node modules help you"+
     " protect your application from attackers by profiling and fixing your app vulnerabilities.");
     initrepo(appname);
 }
