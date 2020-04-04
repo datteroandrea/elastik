@@ -1,0 +1,22 @@
+{
+  "name": "elastik",
+  "version": "1.0.0",
+  "description": "The elastik Backend Framework",
+  "main": "elastik.js",
+  "scripts": {
+    "test": "elastik"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/datteroandrea/elastik.git"
+  },
+  "author": "datteroandrea",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/datteroandrea/elastik/issues"
+  },
+  "homepage": "https://github.com/datteroandrea/elastik#readme",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}
