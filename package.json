@@ -1,6 +1,6 @@
 {
   "name": "elastik",
-  "version": "2.2.2",
+  "version": "2.2.3",
   "description": "The elastik Backend Framework",
   "main": "elastik.js",
   "scripts": {
