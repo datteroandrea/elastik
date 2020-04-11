@@ -92,6 +92,7 @@ function newapp(appname){
     fs.mkdirSync(appname);
     fs.writeFileSync(appname+'/.gitignore',"config.json");
     fs.writeFileSync(appname+'/config.json',JSON.stringify(config));
+    fs.writeFileSync(appname+'/app.js','');
     fs.mkdirSync(appname+"/services");
     fs.mkdirSync(appname+"/api");
     fs.mkdirSync(appname+"/modules");
